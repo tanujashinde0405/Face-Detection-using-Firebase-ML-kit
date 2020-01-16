@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123727410051",
+    "firebase_url": "https://face-detection-mlkit-app-5c623.firebaseio.com",
+    "project_id": "face-detection-mlkit-app-5c623",
+    "storage_bucket": "face-detection-mlkit-app-5c623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123727410051:android:03a9fc9b08abf82c3bfcb6",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123727410051-16ogs0inui209lvfi6t665rac2u70it8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKSzHGugi6ihNgYWJRU3A8990WiWlcg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123727410051-16ogs0inui209lvfi6t665rac2u70it8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
